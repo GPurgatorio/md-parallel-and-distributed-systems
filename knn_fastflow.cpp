@@ -73,8 +73,7 @@ int main(int argc, char* argv[]) {
         maxheap.insertElem(move(make_pair(j, euclidean_distance(data[index], data[j]))));
       }
 
-      // Sort the list in ascending order on the second element (the euclidean distance)
-      //partial_sort(neighbors.begin(), neighbors.begin()+k_param, neighbors.end(), distance_ordering);
+      // Sort the heap in ascending order (on the second element)
       sort_heap(neighbors.begin(), neighbors.end(), distance_ordering);
 
       mystring.append(to_string(index) + ": { " + printNeighbors(neighbors, k_param) + " }\n");
