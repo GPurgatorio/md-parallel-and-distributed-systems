@@ -102,6 +102,6 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 [issues-shield]: https://img.shields.io/github/issues/GPurgatorio/md-parallel-and-distributed-systems.svg?style=for-the-badge
 [issues-url]: https://github.com/GPurgatorio/md-parallel-and-distributed-systems/issues
 [license-shield]: https://img.shields.io/github/license/GPurgatorio/md-parallel-and-distributed-systems.svg?style=for-the-badge
-[license-url]: https://github.com/GPurgatorio/md-parallel-and-distributed-systems/blob/master/LICENSE.txt
+[license-url]: https://github.com/GPurgatorio/md-parallel-and-distributed-systems/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/GPurgatorio
